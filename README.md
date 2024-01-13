@@ -5,7 +5,11 @@ survey bot is equipped with natural language processing skills to converse with 
 
 How to run the file: 
 Step 1: Download the ZIP file and extract the file 
+
 Step 2 : Download NODE JS 
+
 Step 3 : Setup an environment with Python 3.11.7
+
 Step 4: Open Backend folder(foldername) access that folder through command prompt 
+
 Step 5: Type Python train.py
