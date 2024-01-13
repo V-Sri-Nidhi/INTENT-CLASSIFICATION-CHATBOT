@@ -10,6 +10,8 @@ Step 2 : Download NODE JS
 
 Step 3 : Setup an environment with Python 3.11.7
 
-Step 4: Open Backend folder(foldername) access that folder through command prompt 
+Step 4: Install all the required Dependencies through Requirements.txt file 
 
-Step 5: Type Python train.py
+Step 5: Open Backend folder(foldername) access that folder through command prompt 
+
+Step 6: Type Python train.py
