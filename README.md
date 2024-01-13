@@ -15,3 +15,14 @@ Step 4: Install all the required Dependencies through Requirements.txt file
 Step 5: Open Backend folder(foldername) access that folder through command prompt 
 
 Step 6: Type Python train.py
+
+Step 7: After running of Train.py, similar way run Chat.py [Python chat.py]
+
+Step 8: Now , close the backend folder, and open the folder named as FRONTEND 
+
+Step 9: Access the command prompt through the FRONTEND folder and type "npm run dev" 
+
+Step 10: A local Host link will be generated, take the link and paste it in browser and converse with CHATBOT 
+
+
+Note: To access command prompt through the folder go the top bar where the path will be there and then type cmd there. 
